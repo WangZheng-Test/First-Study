@@ -6,4 +6,8 @@ zzzzzzzzzzz====branch2
 这是需要合并的内容
 这还是需要合并的内容
 
+
 1234567890
+branch2和mageDemo合并后的样子
+123456
+
